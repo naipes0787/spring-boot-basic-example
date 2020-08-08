@@ -1,4 +1,4 @@
-package ar.com.naipes.springbootbasicexample.controller;
+package ar.com.naipes.springbootbasicexample.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
